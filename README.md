@@ -1,5 +1,5 @@
 # Cryptography
-Either encrypts or decrypts text using the Ceasar and Scytale ciphers, with a key of the user's choice. 
+Either encrypts or decrypts text using the Caesar and Scytale ciphers, with a key of the user's choice. 
 This was an individual project I completed for my Software Design & Development class in order to
 demonstrate the Strategy Design pattern.
 
